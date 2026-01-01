@@ -15,7 +15,7 @@
 - **Verbose Kernel Log:** Provides technical feedback on every system modification.
 
 ## 🚀 How to Use
-1. **Download:** Grab the latest `.exe` from the [Releases](link-to-your-release) page.
+1. **Download:** Grab the latest `.exe` from the [Releases] page.
 2. **Phase 1:** Click **FORCE CLEAN**. This unlocks the system's memory management.
 3. **Phase 2:** Select your desired RAM size and click **EXPAND VIRTUAL RAM**.
 4. **Reboot:** Restart your PC to allow the Windows kernel to create the new `pagefile.sys`.
